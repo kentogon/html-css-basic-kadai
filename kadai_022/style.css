@@ -36,7 +36,7 @@ main {
   flex-basis: 25%;
   padding: 10px 15px;
   margin: 20px 0px;
-  margin: 0 auto;
+  text-align: center;
 }
 
 h2 {
@@ -54,14 +54,14 @@ h2::before {
   color: rgb(97, 206, 249);
 }
 
-img {
-  margin: 10px 0px;
+.contents img {
   width: 70%;
+  margin: 10px 0px;
 }
 
 footer {
   background-color: rgb(244, 79, 79);
-  margin: 0 auto;
+  text-align: center;
 }
 
 a {
