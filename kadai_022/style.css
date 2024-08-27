@@ -85,7 +85,7 @@ a:hover {
     font-size: 25px;
   }
 
-  .contents {
+  #parent {
     flex-direction: column;
   }
 }
